@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Page Object Model Basics and PageFactories]">
+  <listeners>
+    <listener class-name="com.listeners.CustomListeners"/>
+    <listener class-name="com.errorcollectors.TestListenerAdapter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Sign In Test(failed)">
+    <classes>
+      <class name="com.testcases.SignInTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="signInTest" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.testcases.SignInTest -->
+    </classes>
+  </test> <!-- Sign In Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model Basics and PageFactories] -->

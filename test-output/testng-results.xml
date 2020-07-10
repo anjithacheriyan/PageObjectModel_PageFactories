@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20883" started-at="2020-07-09T09:25:21Z" finished-at="2020-07-09T09:25:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20883" started-at="2020-07-09T09:25:21Z" finished-at="2020-07-09T09:25:41Z">
+      <class name="com.testcases.FlightSearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.FlightSearchTest@4f638935]" name="setUp" is-config="true" duration-ms="11202" started-at="2020-07-09T09:25:21Z" finished-at="2020-07-09T09:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flightSearchTest()[pri:0, instance:com.testcases.FlightSearchTest@4f638935]" name="flightSearchTest" duration-ms="9427" started-at="2020-07-09T09:25:32Z" finished-at="2020-07-09T09:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.FlightSearchTest@4f638935]" name="tearDown" is-config="true" duration-ms="212" started-at="2020-07-09T09:25:41Z" finished-at="2020-07-09T09:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.FlightSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

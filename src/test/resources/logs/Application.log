@@ -1,0 +1,17 @@
+10/07/2020 14:40:25 devpinoyLogger Chrome launched !!!
+10/07/2020 14:41:09 devpinoyLogger Proxy element for: AjaxElementLocator 'By.xpath: //nav[@id="secondaryNav"]//div[3]//button[@class="uitk-button uitk-button-small uitk-button-has-text uitk-menu-icon-trigger gc-header-custom-menu-trigger"]'
+10/07/2020 14:42:14 devpinoyLogger Proxy element for: AjaxElementLocator 'By.xpath: //a[@class="uitk-button uitk-button-small uitk-button-fullWidth uitk-button-has-text uitk-button-primary"]'
+10/07/2020 14:42:46 devpinoyLogger [[ChromeDriver: chrome on MAC (e14be84925495bf21160c49c3591bbc5)] -> xpath: //input[@id="signin-loginid"]]
+10/07/2020 14:42:46 devpinoyLogger [[ChromeDriver: chrome on MAC (e14be84925495bf21160c49c3591bbc5)] -> xpath: //input[@id="signin-password"]]
+10/07/2020 14:42:46 devpinoyLogger [[ChromeDriver: chrome on MAC (e14be84925495bf21160c49c3591bbc5)] -> xpath: //button[@id="submitButton"]]
+10/07/2020 14:42:54 devpinoyLogger Chrome launched !!!
+10/07/2020 14:43:07 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //a[@href="?pwaLOB=wizard-flight-pwa"]]
+10/07/2020 14:43:09 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //button[@data-stid="location-field-leg1-origin-menu-trigger"]]
+10/07/2020 14:43:10 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //ul[@data-stid="location-field-leg1-origin-results"]//li[1]]
+10/07/2020 14:43:11 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //button[@data-stid="location-field-leg1-destination-menu-trigger"]]
+10/07/2020 14:43:12 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //ul[@data-stid="location-field-leg1-destination-results"]//li[1]]
+10/07/2020 14:43:12 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //button[@id="d1-btn"]]
+10/07/2020 14:43:12 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //button[@id="d2-btn"]]
+10/07/2020 14:43:13 devpinoyLogger [[ChromeDriver: chrome on MAC (0e958e98cc7e89de53c27e063e0fe9bd)] -> xpath: //a[@aria-label="Preferred flight class"]]
+10/07/2020 14:43:43 devpinoyLogger Proxy element for: AjaxElementLocator 'By.xpath: //div[@class="uitk-menu-container elevation-8 uitk-menu-open uitk-menu-pos-left"]//div[@class="uitk-list uitk-type-400"]//a[4]'
+10/07/2020 14:44:46 devpinoyLogger Proxy element for: AjaxElementLocator 'By.xpath: //button[@data-testid="submit-button"]'
